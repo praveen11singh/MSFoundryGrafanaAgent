@@ -1,0 +1,6 @@
+azure-ai-projects
+azure-identity 
+requests 
+python-dotenv
+azure-monitor-query 
+azure-monitor-opentelemetry 
